@@ -1,0 +1,23 @@
+html{
+    text-align: center;
+}
+
+#meme{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
