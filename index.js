@@ -9,6 +9,10 @@ fetch('https://api.imgflip.com/get_memes')
     })
 })
 
+function renderJokes(jokes) {
+    console.log(jokes)
+}
+
 
 
 function renderMemes(meme){
