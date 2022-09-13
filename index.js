@@ -15,6 +15,7 @@ function renderJokes(jokes) {
 
 
 
+
 function renderMemes(meme){
     let memes_list = document.querySelector('#memes-list');
 
@@ -37,8 +38,10 @@ function renderMemes(meme){
 
     container.append(meme_image, detail);
 
-    memes_list.append(container);
+  
 }
+
+
 
 
 // function showDetails(meme){
